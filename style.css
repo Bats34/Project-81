@@ -1,0 +1,11 @@
+.body_background {
+	background-image: url("istockphoto-1168586311-612x612.jpg");
+	background-position: center;
+	background-size: cover;
+}
+h1 {
+	color: tomato;
+}
+#mycanvas {
+	background-color: white;
+}
